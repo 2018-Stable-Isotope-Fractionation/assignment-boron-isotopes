@@ -1,0 +1,6 @@
+---
+title: "Boron paleo pH"
+output: html_document
+---
+
+The GitHub repository and RMarkdown file for this exercise are started in class from scratch to practice generating a data analysis file together from start to finish.
